@@ -7,5 +7,5 @@
  - JavaScript
  - TypeScript
 ### Библиотеки:
-Bootstrap 5.0
-Angular 8
+ - Bootstrap 5.0
+ - Angular 8
