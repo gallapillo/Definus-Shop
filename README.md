@@ -8,4 +8,4 @@
  - TypeScript
 ### Библиотеки:
  - Bootstrap 5.0
- - Angular 8
+ - Angular 10
